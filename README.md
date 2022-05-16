@@ -25,8 +25,13 @@ Even though the are some exceptions but we can clearly see that the younger the 
 
 ![Average_Trip_Duration](https://user-images.githubusercontent.com/66279829/168550398-dfb0e489-ce25-4a6e-8c35-1cd941e64081.png)
 
+The majority of the bikes are checked out for all riders and genders in less than an hour..
 
+![Checkout_Time_for_Users](https://user-images.githubusercontent.com/66279829/168551134-2359aac9-8f05-41b3-b079-384c06601793.png)
 
+Trips taken by the hour for each day of the week, for all riders and genders.
+
+![Trips_by_Gender](https://user-images.githubusercontent.com/66279829/168551727-eac8a02c-80a0-4290-8d23-9953922186dc.png)
 
 ## Summary
 
