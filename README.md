@@ -9,3 +9,6 @@ The purpose of the analysis is to analyze NYC bike-sharing data from August 2017
 
 
 ## Summary
+
+
+[link to dashboard](https://public.tableau.com/app/profile/safaa.dorian/viz/Visualizations_16526870459250/NYC_Citi_Bike?publish=yes)
