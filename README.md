@@ -12,8 +12,10 @@ The results of the analysis are:
 
 -81% of the riders are annual subscribers to the Citi Bike service.
 
+- 65% of riders are male
 
-![Dashboard 2](https://user-images.githubusercontent.com/66279829/168548574-08bbc362-8d59-4e3f-9670-a0b9416325de.png)
+
+![Dashboard 2](https://user-images.githubusercontent.com/66279829/168548754-1a355f54-3dc9-4c35-a7b5-b703892bfe73.png)
 
 
 
